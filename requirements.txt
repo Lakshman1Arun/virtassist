@@ -1,5 +1,4 @@
 gTTS
-
 google-generativeai
 pygame
 requests
